@@ -1,3 +1,3 @@
 <?php
 
-echo 'Oops! Something went wrong.';
+loadView('error/404');
