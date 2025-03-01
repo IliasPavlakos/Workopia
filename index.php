@@ -1,3 +1,5 @@
 <?php
 
-echo 'Hello World!';
+require 'helpers.php';
+
+require basePath('views/home.view.php');
